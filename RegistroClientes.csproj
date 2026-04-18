@@ -32,4 +32,8 @@
     </EmbeddedResource>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="RegistroClientes.Data\RegistroClientes.Data.csproj" />
+  </ItemGroup>
+
 </Project>
